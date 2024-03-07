@@ -1,2 +1,2 @@
-# django_server
+# django_be
 server for react app
